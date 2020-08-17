@@ -13,4 +13,4 @@ Dear reader,
 - 🌱 I’m currently learning how to be a better human.
 - 💃 Interests: blues dancing, intentional community, authentic relating.
 
-🖖 May you be happy. May you be healthy. May you be free from suffering.
+May you be happy. May you be healthy. May you be free from suffering. May you live with ease. 🖖
