@@ -1,16 +1,16 @@
-### Hi there 👋
+Dear reader,
 
-<!--
-**lorensr/lorensr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤓 I'm Loren (he/him). 
+- 📖 I'm currently working on a book called [The GraphQL Guide](https://graphql.guide/).
+- 🤔 I’m looking for help with:
+  - Reviewing the book! Anyone from beginner to expert who's interested in reading it and providing feedback.
+  - Marketing the book.
+  - Open-source contributors and maintainers for:
+    - [Join Monster](https://github.com/join-monster/join-monster/)
+    - [apollo-datasource-mongodb](https://github.com/GraphQLGuide/apollo-datasource-mongodb/)
+    - Fledgling project: GraphQL News (HN for GraphQL)
+- 📫 loren@graphql.guide
+- 🌱 I’m currently learning how to be a better human.
+- 💃 Interests: blues dancing, intentional community, authentic relating.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖖 May you be happy. May you be healthy. May you be free from suffering.
