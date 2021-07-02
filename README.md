@@ -1,6 +1,6 @@
 Dear reader,
 
-- 🤓 I'm Loren (he/him). 
+- 🤓 I'm Loren (he/they). 
 - 📖 I'm currently working on a book called [The GraphQL Guide](https://graphql.guide/).
 - 🤔 I’m looking for help with:
   - Reviewing the book! Anyone from beginner to expert who's interested in reading it and providing feedback.
