@@ -1,13 +1,12 @@
 Dear reader,
 
-- 🤓 I'm Loren (he/they). 
-- 📖 I'm working on a book called [The GraphQL Guide](https://graphql.guide/).
+- 🤓 I'm Loren (they/he). 
 - 🤔 I’m looking for help with:
-  - Reviewing the book! Anyone from beginner to expert who's interested in reading it and providing feedback.
-  - Marketing the book.
+  - Getting the word out about my book, [The GraphQL Guide](https://graphql.guide/).
   - Open-source contributors and maintainers for:
+    - [Temporal TypeScript SDK](https://github.com/temporalio/sdk-typescript)
     - [Join Monster](https://github.com/join-monster/join-monster/)
-    - [apollo-datasource-mongodb](https://github.com/GraphQLGuide/apollo-datasource-mongodb/)
+    - [`apollo-datasource-mongodb`](https://github.com/GraphQLGuide/apollo-datasource-mongodb/)
 - 📫 loren@graphql.guide
 - 🌱 I’m currently learning how to be a better human.
 - 💃 Interests: blues dancing, intentional community, authentic relating.
